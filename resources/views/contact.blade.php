@@ -9,6 +9,10 @@
 </head>
 
 <body>
+    <a href="/">Home</a>
+    <a href="/about">About</a>
+    <a href="/blog">Blog</a>
+    <a href="/contact">Kontak </a>
     <h1>Kontak Saya</h1>
     <h3>12345678900</h3>
 </body>
